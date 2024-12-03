@@ -1,5 +1,5 @@
 ### Hello, I'm Suprasanna 👋
-I have a personal website [here](https://suprasanna.com/)
+I have a personal website [here](www.suprasanna.com/)
 I'm software engineer by education and usually try to understand why things happen.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/spsarkar?label=Follow)](https://twitter.com/spsarkar)
